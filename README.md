@@ -1,9 +1,4 @@
 
-1. Final report: `final_report.pdf`
-2. Poster: `docs/poster/cs231n_poster_final.pdf`
-3. Final action-alignment summary: `docs/results/final_action_alignment/final_action_alignment_report.md`
-4. Three-epoch V4 analysis: `docs/results/b200_three_epoch/three_epoch_deep_analysis.md`
-
 ## Final Model Family
 
 The selected model is the V4 full-action, low-frequency action-conditioning model. It uses:
