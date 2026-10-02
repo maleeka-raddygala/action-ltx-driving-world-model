@@ -1,8 +1,3 @@
-# Final Submission Guide
-
-\
-
-## What To Read First
 
 1. Final report: `final_report.pdf`
 2. Poster: `docs/poster/cs231n_poster_final.pdf`
