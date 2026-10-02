@@ -1,10 +1,10 @@
 # Final Submission Guide
 
-This repository is the cleaned final package for the CS231N project **Action-Sensitive Driving Video Generation**. It contains the code, report, poster, compact metrics, and plotting scripts needed to understand the final experiments.
+\
 
 ## What To Read First
 
-1. Final report: `docs/final_report/cs231n_final_action_ltx_waymo_report.pdf`
+1. Final report: `final_report.pdf`
 2. Poster: `docs/poster/cs231n_poster_final.pdf`
 3. Final action-alignment summary: `docs/results/final_action_alignment/final_action_alignment_report.md`
 4. Three-epoch V4 analysis: `docs/results/b200_three_epoch/three_epoch_deep_analysis.md`
